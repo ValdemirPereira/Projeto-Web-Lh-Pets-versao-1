@@ -1,0 +1,62 @@
+C:\Users\PC\Documents\Valdemir\Curso C Sharp\MVC\LHPet\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\PC\Documents\Valdemir\Curso C Sharp\MVC\LHPet\bin\Debug\net7.0\appsettings.json
+C:\Users\PC\Documents\Valdemir\Curso C Sharp\MVC\LHPet\bin\Debug\net7.0\LHPet.staticwebassets.runtime.json
+C:\Users\PC\Documents\Valdemir\Curso C Sharp\MVC\LHPet\bin\Debug\net7.0\LHPet.exe
+C:\Users\PC\Documents\Valdemir\Curso C Sharp\MVC\LHPet\bin\Debug\net7.0\LHPet.deps.json
+C:\Users\PC\Documents\Valdemir\Curso C Sharp\MVC\LHPet\bin\Debug\net7.0\LHPet.runtimeconfig.json
+C:\Users\PC\Documents\Valdemir\Curso C Sharp\MVC\LHPet\bin\Debug\net7.0\LHPet.dll
+C:\Users\PC\Documents\Valdemir\Curso C Sharp\MVC\LHPet\bin\Debug\net7.0\LHPet.pdb
+C:\Users\PC\Documents\Valdemir\Curso C Sharp\MVC\LHPet\obj\Debug\net7.0\LHPet.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Valdemir\Curso C Sharp\MVC\LHPet\obj\Debug\net7.0\LHPet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Valdemir\Curso C Sharp\MVC\LHPet\obj\Debug\net7.0\LHPet.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Valdemir\Curso C Sharp\MVC\LHPet\obj\Debug\net7.0\LHPet.AssemblyInfo.cs
+C:\Users\PC\Documents\Valdemir\Curso C Sharp\MVC\LHPet\obj\Debug\net7.0\LHPet.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Valdemir\Curso C Sharp\MVC\LHPet\obj\Debug\net7.0\LHPet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\Documents\Valdemir\Curso C Sharp\MVC\LHPet\obj\Debug\net7.0\LHPet.RazorAssemblyInfo.cache
+C:\Users\PC\Documents\Valdemir\Curso C Sharp\MVC\LHPet\obj\Debug\net7.0\LHPet.RazorAssemblyInfo.cs
+C:\Users\PC\Documents\Valdemir\Curso C Sharp\MVC\LHPet\obj\Debug\net7.0\staticwebassets\msbuild.LHPet.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PC\Documents\Valdemir\Curso C Sharp\MVC\LHPet\obj\Debug\net7.0\staticwebassets\msbuild.build.LHPet.props
+C:\Users\PC\Documents\Valdemir\Curso C Sharp\MVC\LHPet\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.LHPet.props
+C:\Users\PC\Documents\Valdemir\Curso C Sharp\MVC\LHPet\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.LHPet.props
+C:\Users\PC\Documents\Valdemir\Curso C Sharp\MVC\LHPet\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\PC\Documents\Valdemir\Curso C Sharp\MVC\LHPet\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\PC\Documents\Valdemir\Curso C Sharp\MVC\LHPet\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\PC\Documents\Valdemir\Curso C Sharp\MVC\LHPet\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\PC\Documents\Valdemir\Curso C Sharp\MVC\LHPet\obj\Debug\net7.0\scopedcss\bundle\LHPet.styles.css
+C:\Users\PC\Documents\Valdemir\Curso C Sharp\MVC\LHPet\obj\Debug\net7.0\scopedcss\projectbundle\LHPet.bundle.scp.css
+C:\Users\PC\Documents\Valdemir\Curso C Sharp\MVC\LHPet\obj\Debug\net7.0\LHPet.dll
+C:\Users\PC\Documents\Valdemir\Curso C Sharp\MVC\LHPet\obj\Debug\net7.0\refint\LHPet.dll
+C:\Users\PC\Documents\Valdemir\Curso C Sharp\MVC\LHPet\obj\Debug\net7.0\LHPet.pdb
+C:\Users\PC\Documents\Valdemir\Curso C Sharp\MVC\LHPet\obj\Debug\net7.0\LHPet.genruntimeconfig.cache
+C:\Users\PC\Documents\Valdemir\Curso C Sharp\MVC\LHPet\obj\Debug\net7.0\ref\LHPet.dll
+C:\Users\PC\Documents\Valdemir\CURSO BACK-AND EaD\Projetos\Projeto-Web-Lh-Pets-versao-1\LHPet - Sistema de Controle Interno\MVC\LHPet\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\PC\Documents\Valdemir\CURSO BACK-AND EaD\Projetos\Projeto-Web-Lh-Pets-versao-1\LHPet - Sistema de Controle Interno\MVC\LHPet\bin\Debug\net7.0\appsettings.json
+C:\Users\PC\Documents\Valdemir\CURSO BACK-AND EaD\Projetos\Projeto-Web-Lh-Pets-versao-1\LHPet - Sistema de Controle Interno\MVC\LHPet\bin\Debug\net7.0\LHPet.staticwebassets.runtime.json
+C:\Users\PC\Documents\Valdemir\CURSO BACK-AND EaD\Projetos\Projeto-Web-Lh-Pets-versao-1\LHPet - Sistema de Controle Interno\MVC\LHPet\bin\Debug\net7.0\LHPet.exe
+C:\Users\PC\Documents\Valdemir\CURSO BACK-AND EaD\Projetos\Projeto-Web-Lh-Pets-versao-1\LHPet - Sistema de Controle Interno\MVC\LHPet\bin\Debug\net7.0\LHPet.deps.json
+C:\Users\PC\Documents\Valdemir\CURSO BACK-AND EaD\Projetos\Projeto-Web-Lh-Pets-versao-1\LHPet - Sistema de Controle Interno\MVC\LHPet\bin\Debug\net7.0\LHPet.runtimeconfig.json
+C:\Users\PC\Documents\Valdemir\CURSO BACK-AND EaD\Projetos\Projeto-Web-Lh-Pets-versao-1\LHPet - Sistema de Controle Interno\MVC\LHPet\bin\Debug\net7.0\LHPet.dll
+C:\Users\PC\Documents\Valdemir\CURSO BACK-AND EaD\Projetos\Projeto-Web-Lh-Pets-versao-1\LHPet - Sistema de Controle Interno\MVC\LHPet\bin\Debug\net7.0\LHPet.pdb
+C:\Users\PC\Documents\Valdemir\CURSO BACK-AND EaD\Projetos\Projeto-Web-Lh-Pets-versao-1\LHPet - Sistema de Controle Interno\MVC\LHPet\obj\Debug\net7.0\LHPet.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Valdemir\CURSO BACK-AND EaD\Projetos\Projeto-Web-Lh-Pets-versao-1\LHPet - Sistema de Controle Interno\MVC\LHPet\obj\Debug\net7.0\LHPet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Valdemir\CURSO BACK-AND EaD\Projetos\Projeto-Web-Lh-Pets-versao-1\LHPet - Sistema de Controle Interno\MVC\LHPet\obj\Debug\net7.0\LHPet.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Valdemir\CURSO BACK-AND EaD\Projetos\Projeto-Web-Lh-Pets-versao-1\LHPet - Sistema de Controle Interno\MVC\LHPet\obj\Debug\net7.0\LHPet.AssemblyInfo.cs
+C:\Users\PC\Documents\Valdemir\CURSO BACK-AND EaD\Projetos\Projeto-Web-Lh-Pets-versao-1\LHPet - Sistema de Controle Interno\MVC\LHPet\obj\Debug\net7.0\LHPet.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Valdemir\CURSO BACK-AND EaD\Projetos\Projeto-Web-Lh-Pets-versao-1\LHPet - Sistema de Controle Interno\MVC\LHPet\obj\Debug\net7.0\LHPet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\Documents\Valdemir\CURSO BACK-AND EaD\Projetos\Projeto-Web-Lh-Pets-versao-1\LHPet - Sistema de Controle Interno\MVC\LHPet\obj\Debug\net7.0\LHPet.RazorAssemblyInfo.cache
+C:\Users\PC\Documents\Valdemir\CURSO BACK-AND EaD\Projetos\Projeto-Web-Lh-Pets-versao-1\LHPet - Sistema de Controle Interno\MVC\LHPet\obj\Debug\net7.0\LHPet.RazorAssemblyInfo.cs
+C:\Users\PC\Documents\Valdemir\CURSO BACK-AND EaD\Projetos\Projeto-Web-Lh-Pets-versao-1\LHPet - Sistema de Controle Interno\MVC\LHPet\obj\Debug\net7.0\staticwebassets\msbuild.LHPet.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PC\Documents\Valdemir\CURSO BACK-AND EaD\Projetos\Projeto-Web-Lh-Pets-versao-1\LHPet - Sistema de Controle Interno\MVC\LHPet\obj\Debug\net7.0\staticwebassets\msbuild.build.LHPet.props
+C:\Users\PC\Documents\Valdemir\CURSO BACK-AND EaD\Projetos\Projeto-Web-Lh-Pets-versao-1\LHPet - Sistema de Controle Interno\MVC\LHPet\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.LHPet.props
+C:\Users\PC\Documents\Valdemir\CURSO BACK-AND EaD\Projetos\Projeto-Web-Lh-Pets-versao-1\LHPet - Sistema de Controle Interno\MVC\LHPet\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.LHPet.props
+C:\Users\PC\Documents\Valdemir\CURSO BACK-AND EaD\Projetos\Projeto-Web-Lh-Pets-versao-1\LHPet - Sistema de Controle Interno\MVC\LHPet\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\PC\Documents\Valdemir\CURSO BACK-AND EaD\Projetos\Projeto-Web-Lh-Pets-versao-1\LHPet - Sistema de Controle Interno\MVC\LHPet\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\PC\Documents\Valdemir\CURSO BACK-AND EaD\Projetos\Projeto-Web-Lh-Pets-versao-1\LHPet - Sistema de Controle Interno\MVC\LHPet\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\PC\Documents\Valdemir\CURSO BACK-AND EaD\Projetos\Projeto-Web-Lh-Pets-versao-1\LHPet - Sistema de Controle Interno\MVC\LHPet\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\PC\Documents\Valdemir\CURSO BACK-AND EaD\Projetos\Projeto-Web-Lh-Pets-versao-1\LHPet - Sistema de Controle Interno\MVC\LHPet\obj\Debug\net7.0\scopedcss\bundle\LHPet.styles.css
+C:\Users\PC\Documents\Valdemir\CURSO BACK-AND EaD\Projetos\Projeto-Web-Lh-Pets-versao-1\LHPet - Sistema de Controle Interno\MVC\LHPet\obj\Debug\net7.0\scopedcss\projectbundle\LHPet.bundle.scp.css
+C:\Users\PC\Documents\Valdemir\CURSO BACK-AND EaD\Projetos\Projeto-Web-Lh-Pets-versao-1\LHPet - Sistema de Controle Interno\MVC\LHPet\obj\Debug\net7.0\LHPet.dll
+C:\Users\PC\Documents\Valdemir\CURSO BACK-AND EaD\Projetos\Projeto-Web-Lh-Pets-versao-1\LHPet - Sistema de Controle Interno\MVC\LHPet\obj\Debug\net7.0\refint\LHPet.dll
+C:\Users\PC\Documents\Valdemir\CURSO BACK-AND EaD\Projetos\Projeto-Web-Lh-Pets-versao-1\LHPet - Sistema de Controle Interno\MVC\LHPet\obj\Debug\net7.0\LHPet.pdb
+C:\Users\PC\Documents\Valdemir\CURSO BACK-AND EaD\Projetos\Projeto-Web-Lh-Pets-versao-1\LHPet - Sistema de Controle Interno\MVC\LHPet\obj\Debug\net7.0\LHPet.genruntimeconfig.cache
+C:\Users\PC\Documents\Valdemir\CURSO BACK-AND EaD\Projetos\Projeto-Web-Lh-Pets-versao-1\LHPet - Sistema de Controle Interno\MVC\LHPet\obj\Debug\net7.0\ref\LHPet.dll
